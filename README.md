@@ -1,4 +1,4 @@
-# 🏡 Airbnb Data Analysis – VOIS AICTE Minor Project (Oct 2025)
+# Airbnb Data Analysis – VOIS AICTE Minor Project (Oct 2025)
 
 This project explores Airbnb listings data using Python and data visualization techniques. The goal is to uncover meaningful insights into pricing, availability, and geographical trends to better understand the dynamics of the short-term rental market.
 
@@ -17,7 +17,7 @@ This project explores Airbnb listings data using Python and data visualization t
 ## 📂 Dataset
 
 - **Source**: [Inside Airbnb](http://insideairbnb.com/get-the-data.html)
-- **Location Analyzed**: *(e.g., New York City / San Francisco / Bangalore — update this)*
+- **Location Analyzed**: *(e.g., New York City / San Francisco / Bangalore)*
 - **Format**: CSV
 - **Fields Included**: 
   - Listing ID
@@ -40,7 +40,7 @@ This project explores Airbnb listings data using Python and data visualization t
 - Matplotlib
 - Seaborn
 - Jupyter Notebook / VS Code
-- (Optional) Plotly / Folium for interactive maps
+- Plotly / Folium for interactive maps (Optional)
 
 ---
 
